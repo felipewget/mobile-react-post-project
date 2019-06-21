@@ -1,4 +1,4 @@
-#Sun Jun 09 22:45:03 BRT 2019
-base.0=/home/fe/post-project/react_post_project/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Jun 18 22:45:20 BRT 2019
+base.0=/home/fe/post-project/mobile-react-post-project/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

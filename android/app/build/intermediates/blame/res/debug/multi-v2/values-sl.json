@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/fe/post-project/react_post_project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "/home/fe/post-project/mobile-react-post-project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-2/files-2.1/060022d76592ec5e795de33b728a8922/res/values-sl/values-sl.xml",
